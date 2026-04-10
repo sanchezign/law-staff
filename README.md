@@ -7,7 +7,7 @@ El proyecto cuenta con tres secciones principales: **Inicio**, **Sobre Nosotros*
 
 ## 🌐 Demo en Producción
 
-🔗 [Ver sitio desplegado en Vercel](https://legal-staff.vercel.app/)
+🔗 [Ver sitio desplegado en Vercel](https://law-staff.vercel.app/)
 
 ---
 
